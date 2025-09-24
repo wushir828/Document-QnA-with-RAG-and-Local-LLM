@@ -10,7 +10,7 @@
 ## 📖 项目概述 (Project Overview)
 
 RAG技术通过“开卷考试”的方式，极大地提升了大语言模型回答问题的准确性和时效性。本项目旨在搭建一个完整的RAG流程，让AI成为任何一份文档的“问答专家”。
-最终成果展示：<img width="1311" height="300" alt="Image" src="https://github.com/user-attachments/assets/08c3df72-5f32-4cd1-b3c6-7bbca08729c7" />
+最终成果展示：<img width="1062" height="243" alt="Image" src="https://github.com/user-attachments/assets/7099519c-60e9-49ba-bfaf-72ee8e51c6ff" />
 ---
 
 ## 🚀 工作流程 (Workflow)
