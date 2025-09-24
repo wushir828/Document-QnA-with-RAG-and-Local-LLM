@@ -12,7 +12,16 @@
 RAG技术通过“开卷考试”的方式，极大地提升了大语言模型回答问题的准确性和时效性。本项目旨在搭建一个完整的RAG流程，让AI成为任何一份文档的“问答专家”。
 最终成果展示：<img width="1062" height="243" alt="Image" src="https://github.com/user-attachments/assets/7099519c-60e9-49ba-bfaf-72ee8e51c6ff" />
 ---
+## 💻 技术栈 (Tech Stack)
 
+* **Python 3**
+* **LangChain**: 用于编排和实现RAG流程。
+* **Ollama**: 用于在本地运行和管理大语言模型。
+* **Llama 3.1**: 作为生成答案的核心大语言模型。
+* **Sentence-Transformers**: 用于生成文本嵌入向量。
+* **FAISS**: 用于构建本地向量数据库。
+* **Jupyter Notebook**: 用于交互式开发和展示。
+---
 ## 🚀 工作流程 (Workflow)
 
 1.  **文档加载与切分 (Load & Chunk)**:
@@ -47,14 +56,5 @@ RAG技术通过“开卷考试”的方式，极大地提升了大语言模型�
     * 确保Ollama应用正在后台运行。
     * 启动Jupyter Notebook/Lab，并打开`.ipynb`文件，按顺序执行所有单元格。
 
----
 
-## 💻 技术栈 (Tech Stack)
 
-* **Python 3**
-* **LangChain**: 用于编排和实现RAG流程。
-* **Ollama**: 用于在本地运行和管理大语言模型。
-* **Llama 3.1**: 作为生成答案的核心大语言模型。
-* **Sentence-Transformers**: 用于生成文本嵌入向量。
-* **FAISS**: 用于构建本地向量数据库。
-* **Jupyter Notebook**: 用于交互式开发和展示。
